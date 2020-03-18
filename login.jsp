@@ -37,11 +37,11 @@
   <body>
   <form onsubmit="return login();">
 
+我现在要提交咯
 
-
-  	username: <input type = "text" name = "username" id = "username"><br>
-  	password: <input type = "text" name = "password" id = "password"><br>
-  	repassword: <input type = "text" name = "repassword" id = "repassword"><br>
+  	用户名: <input type = "text" name = "username" id = "username"><br>
+  	密码: <input type = "text" name = "password" id = "password"><br>
+  	确认密码: <input type = "text" name = "repassword" id = "repassword"><br>
   	<input type = "submit" value = "提交">
   </form>
   

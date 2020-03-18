@@ -4,7 +4,7 @@
     <title>My JSP 'success.jsp' starting page</title>
   </head>
   <body>
- 	username : <%= request.getAttribute("username") %>
+ 	啊哈哈哈
   	password : <%= request.getAttribute("password") %>
   </body>
 </html>
