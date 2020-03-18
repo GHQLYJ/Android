@@ -42,6 +42,8 @@
   	用户名: <input type = "text" name = "username" id = "username"><br>
   	密码: <input type = "text" name = "password" id = "password"><br>
   	确认密码: <input type = "text" name = "repassword" id = "repassword"><br>
+我就在这学代码
+
   	<input type = "submit" value = "提交">
   </form>
   
